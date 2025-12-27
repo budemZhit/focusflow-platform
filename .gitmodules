@@ -1,0 +1,21 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/budemZhit/focusflow_front.git
+[submodule "back/common"]
+	path = back/common
+	url = https://github.com/budemZhit/focusflow_common.git
+[submodule "back/models"]
+	path = back/models
+	url = https://github.com/budemZhit/focusflow-models.git
+[submodule "back/calendar_service"]
+	path = back/calendar_service
+	url = https://github.com/budemZhit/focusflow_calendar_service.git
+[submodule "back/notification_service"]
+	path = back/notification_service
+	url = https://github.com/budemZhit/focusflow_notification_service.git
+[submodule "back/sync_service"]
+	path = back/sync_service
+	url = https://github.com/budemZhit/focusflow_sync_service.git
+[submodule "back/user_service"]
+	path = back/user_service
+	url = https://github.com/budemZhit/focusflow_user_service.git
